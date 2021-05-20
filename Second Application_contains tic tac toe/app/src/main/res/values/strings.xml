@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tic tac toe</string>
+    <string name="ttt">Tic tac toe</string>
+    <string name="background">this is background image</string>
+    <string name="image1">move_by_player_box1</string>
+    <string name="image2">move_by_player_box2</string>
+    <string name="image3">move_by_player_box3</string>
+    <string name="image4">move_by_player_box4</string>
+    <string name="image5">move_by_player_box5</string>
+    <string name="image6">move_by_player_box6</string>
+    <string name="image7">move_by_player_box7</string>
+    <string name="image8">move_by_player_box8</string>
+    <string name="image9">move_by_player_box9</string>
+</resources>
